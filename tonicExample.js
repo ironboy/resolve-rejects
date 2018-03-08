@@ -1,6 +1,6 @@
 // Two functions that return promises - one resolves, one rejects
 
-let resolveRejects = require('./resolve-rejects');
+let resolveRejects = require('resolve-rejects');
 
 async function func_a(x){
   return x * 2;

@@ -9,7 +9,7 @@ so you don't have to take care of catching rejections
 ```
 // Two functions that return promises - one resolves, one rejects
 
-let r = require('./resolve-rejects');
+let r = require('resolve-rejects');
 
 async function resolver(x){
   return x * 2;
