@@ -1,5 +1,5 @@
 /*
-  resolve-rejects 1.0.2
+  resolve-rejects 1.0.3
 
   April 2018 Nodebite AB, Thomas Frank
 
