@@ -1,11 +1,11 @@
 /*
-  resolve-rejects 1.0.4
+  resolve-rejects 1.0.5
 
   April 2018 Nodebite AB, Thomas Frank
 
   MIT Licensed - use anywhere you want!
 
-  Non-blocking sleep in ES7 (or, in ES6, setTimeout as a promise)
+  Resolve rejected promises, simplifiying await
 */
 
 /*

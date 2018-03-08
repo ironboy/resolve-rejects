@@ -1,4 +1,4 @@
-# reslolve-rejects 1.0.4
+# reslolve-rejects 1.0.5
 
 Resolve rejected promises, simplifiying await,
 so you don't have to take care of catching rejections
