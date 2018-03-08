@@ -1,5 +1,5 @@
 /*
-  asleep 1.0.3
+  resolve-rejects 1.0.0
 
   April 2018 Nodebite AB, Thomas Frank
 
