@@ -1,4 +1,4 @@
-# reslolve-rejects 1.0.3
+# reslolve-rejects 1.0.4
 
 Resolve rejected promises, simplifiying await,
 so you don't have to take care of catching rejections
@@ -86,4 +86,3 @@ async function runTests(){
 runTests();
 ```
 
-### Settings

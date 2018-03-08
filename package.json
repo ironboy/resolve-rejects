@@ -2,7 +2,7 @@
   "name": "resolve-rejects",
   "description": "Resolve rejected promises, simplifiying await",
   "author": "Thomas Frank <thomas@nodebite.se> (http://nodebite.se)",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "resolve-rejects.js",
   "repository": {
     "type": "git",
